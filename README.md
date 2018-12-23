@@ -1,2 +1,2 @@
-# exercise_1
+#Think Python
 think python exercise-1
